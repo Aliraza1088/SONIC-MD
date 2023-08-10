@@ -1,14 +1,14 @@
 {
-  "name": "SONIC-MD",
+  "name": "ALI_KING",
   "description": "A WHATSAPP MD BOT CREATED BY KALINDU...",
-  "logo": "https://telegra.ph/file/9b152f452d62d0f5a206a.jpg",
+  "logo": "https://www.linkpicture.com/q/Social-Media.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "TYPE YOUR BOT OWNER NAME...😊",
-      "value": "KALINDU"
+      "value": "ALI_KING"
       },
     "HEROKU_API_KEY": {
     "description": "TYPE HEROKU API KEY...😊",
@@ -20,7 +20,7 @@
     },
    "THUMB_IMAGE": {
     "description": "TYPE BOT ALIVE LOGO LINK...😊 .",
-     "value": "https://telegra.ph/file/9b152f452d62d0f5a206a.jpg"
+     "value": "https://www.linkpicture.com/q/Social-Media.png"
     },
    "ANTILINK_VALUES": {
     "description": "TYPE AUTO REMOVE LINK SENDERS SNI...😊",
@@ -44,7 +44,7 @@
   },
   "OWNER_NUMBER": {
     "description": "GIVE OWNER NUMBER...😊",    
-      "value": "94758179948"
+      "value": "923252752761"
   },
    "SESSION_ID": {
     "description": "GIVE SESSION_ID AFTER QR SCAN...😊 "
